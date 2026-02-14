@@ -33,9 +33,6 @@ build/
 
 ### Operating System ###
 HELP.md
-mvnw
-mvnw.cmd
-.mvn/
 bin/
 tmp/
 *.log
