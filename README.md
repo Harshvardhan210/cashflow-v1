@@ -1,7 +1,7 @@
 # <p align="center">💰 Cashflow</p>
 
 <p align="center">
-  <img src="images/logo.png" alt="Cashflow Logo" width="200">
+  <img src="images/favicon.ico" alt="Cashflow Logo" width="100">
 </p>
 
 <p align="center">
