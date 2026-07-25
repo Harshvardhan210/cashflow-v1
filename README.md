@@ -36,6 +36,7 @@
 ## 🛠 Tech Stack
 
 - **Framework**: Spring Boot 4.0.0 (Experimental)
+- **Frontend**: React
 - **Language**: Java 21 (LTS)
 - **Persistence**: Spring Data JPA + PostgreSQL
 - **Security**: Spring Security + JJWT + OAuth2 Client
